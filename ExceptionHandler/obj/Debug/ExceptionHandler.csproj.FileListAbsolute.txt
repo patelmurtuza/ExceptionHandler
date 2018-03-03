@@ -1,0 +1,7 @@
+C:\Users\patelmu\Desktop\ExceptionHandler\obj\Debug\ExceptionHandler.csprojResolveAssemblyReference.cache
+C:\Users\patelmu\Desktop\ExceptionHandler\bin\Debug\ExceptionHandler.dll.config
+C:\Users\patelmu\Desktop\ExceptionHandler\bin\Debug\ExceptionHandler.dll
+C:\Users\patelmu\Desktop\ExceptionHandler\bin\Debug\ExceptionHandler.pdb
+C:\Users\patelmu\Desktop\ExceptionHandler\bin\Debug\log4net.xml
+C:\Users\patelmu\Desktop\ExceptionHandler\obj\Debug\ExceptionHandler.dll
+C:\Users\patelmu\Desktop\ExceptionHandler\obj\Debug\ExceptionHandler.pdb
